@@ -1,4 +1,4 @@
-# Truck-Safety-Courses - Project Description <br>
+# Truck Safety Courses - Project Description <br>
 
 ### About <br/>
 
