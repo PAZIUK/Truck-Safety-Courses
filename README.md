@@ -2,7 +2,7 @@
 
 ### About <br/>
 
-Welcome to our truck driving school, where we provide comprehensive courses to help you become a professional truck driver. Our courses are designed to equip you with the skills and knowledge necessary to obtain a Commercial Driver's License (CDL) and start your career in the trucking industry.<br/>
+Welcome to Truck Safety Courses, where we provide comprehensive courses to help you become a professional truck driver. Our courses are designed to equip you with the skills and knowledge necessary to obtain a Commercial Driver's License (CDL) and start your career in the trucking industry.<br/>
 
 ### Link to the website you can find [here](https://github.com/PAZIUK/PAZIUK/blob/main/README.md#my-projects)<br/>
 
