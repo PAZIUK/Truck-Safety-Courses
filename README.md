@@ -2,9 +2,9 @@
 
 ### About <br/>
 
-The website was created by Serhiy Paziuk for his portfolio.
+Welcome to our truck driving school, where we provide comprehensive courses to help you become a professional truck driver. Our courses are designed to equip you with the skills and knowledge necessary to obtain a Commercial Driver's License (CDL) and start your career in the trucking industry.<br/>
 
-### Website : https://paziuk.github.io/projects/sites/Truck-Safety-Courses/index.html  <br/>
+### Link to the website you can find [here](https://github.com/PAZIUK/PAZIUK/blob/main/README.md#my-projects)<br/>
 
 ## For creating were used <br/>
 
